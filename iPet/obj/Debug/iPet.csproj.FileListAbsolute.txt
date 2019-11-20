@@ -1,0 +1,11 @@
+F:\projects\iPet\iPet\obj\Debug\iPet.Presentation.SplashScreen.resources
+F:\projects\iPet\iPet\obj\Debug\iPet.Properties.Resources.resources
+F:\projects\iPet\iPet\obj\Debug\iPet.csproj.GenerateResource.cache
+F:\projects\iPet\iPet\bin\Debug\iPet.exe.config
+F:\projects\iPet\iPet\bin\Debug\iPet.exe
+F:\projects\iPet\iPet\bin\Debug\iPet.pdb
+F:\projects\iPet\iPet\obj\Debug\iPet.exe
+F:\projects\iPet\iPet\obj\Debug\iPet.pdb
+F:\projects\iPet\iPet\obj\Debug\iPet.Presentation.MainMenu.resources
+F:\projects\iPet\iPet\obj\Debug\iPet.Presentation.UserControls.OrdersControls.resources
+F:\projects\iPet\iPet\obj\Debug\iPet.Presentation.UserControls.ProductsControls.resources
